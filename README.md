@@ -19,7 +19,7 @@ This project aims to create a **virtual fashion stylist** that leverages **large
 
 ## 🔧 Tech Stack
 - BLIP-2 and CLIP Models (for clothing captioning + text embedding)
-- ChromaDB
+- ChromaDB (for storing + retrieving vector embeddings)
 - OpenAI Chat Models
 - Open-Meteo Weather API
 - TensorFlow/Keras (for Fashion MNIST)
